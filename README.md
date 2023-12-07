@@ -10,15 +10,7 @@ The program aims to create an interactive restaurant menu system where users can
 
 The Class Diagram illustrates the relationships between classes in the program.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
+![Screenshot](Case diangram.png)
 
 * User Class:
     * Attributes: username, password, balance
