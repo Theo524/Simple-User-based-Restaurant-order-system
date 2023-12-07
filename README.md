@@ -10,7 +10,7 @@ The program aims to create an interactive restaurant menu system where users can
 
 The Class Diagram illustrates the relationships between classes in the program.
 
-![Screenshot](Case diangram.png)
+![Screenshot](Case diagram.png)
 
 * User Class:
     * Attributes: username, password, balance
